@@ -33,7 +33,6 @@ public class KatalogController {
     
     private final ProdukRepository repository = new ProdukRepository();
     
-    // Variabel untuk menyimpan produk yang sedang dipilih/diklik di katalog
     private Produk selectedProduk = null;
 
     @FXML
