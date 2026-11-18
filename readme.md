@@ -72,7 +72,7 @@ src/main/java/
 Kloning atau Buka Proyek
 
 ```bash
-git clone [https://github.com/azmilramadhan/KatalogProduk.git](https://github.com/azmilramadhan/KatalogProduk.git)
+git clone https://github.com/azmilramadhan/KatalogProduk.git
 cd KatalogProduk
 ```
 
